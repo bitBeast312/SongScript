@@ -1,0 +1,15 @@
+.material-icons {
+    cursor: pointer;
+}
+
+.collection-item {
+    cursor: pointer;
+}
+
+.collection-item li {
+    font-weight: bold;
+}
+
+.likes {
+    margin-left: 10px;
+}
